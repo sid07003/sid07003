@@ -4,6 +4,7 @@
 
 I love building impactful tech products, optimizing code for scale, and contributing to communities. I'm passionate about backend systems, frontend architecture, and integrating AI into real-world solutions.
 
+### Portfolio: https://siddharth-sharma-portfolio.vercel.app/
 ---
 
 ## 💼 Featured Projects
